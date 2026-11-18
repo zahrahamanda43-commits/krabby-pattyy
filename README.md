@@ -1,0 +1,2 @@
+# krabby-pattyy
+latihan repository
